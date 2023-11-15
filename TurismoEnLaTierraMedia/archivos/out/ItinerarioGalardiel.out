@@ -1,0 +1,14 @@
+Itinerario final
+------------------
+Usuario: Galardiel
+Promociones:
+Nombre Promocion: Pack Paisaje
+Duracion: 3.0
+Atracciones incluidas: 
+- [nombre = Minas Tirith, duracionEnHs = 1.5, tipoAtraccion = Paisaje]
+- [nombre = Bosque de Fangorn, duracionEnHs = 1.5, tipoAtraccion = Paisaje]
+Atracciones: 
+-------------
+- [nombre = Erebor, duracionEnHs = 1.0, tipoAtraccion = Paisaje]
+Precio final a abonar: 50 monedas de oro
+Duracion total del recorrido: 4.0 hs

@@ -1,0 +1,15 @@
+Itinerario final
+------------------
+Usuario: Gandalf
+Promociones:
+Nombre Promocion: Pack Aventura
+Duracion: 3.5
+Atracciones incluidas: 
+- [nombre = Mordor, duracionEnHs = 1.0, tipoAtraccion = Aventura]
+- [nombre = Moria, duracionEnHs = 2.5, tipoAtraccion = Aventura]
+Atracciones: 
+-------------
+- [nombre = Abismo de Helm, duracionEnHs = 2.0, tipoAtraccion = Paisaje]
+- [nombre = Bosque de Fangorn, duracionEnHs = 1.5, tipoAtraccion = Paisaje]
+Precio final a abonar: 140 monedas de oro
+Duracion total del recorrido: 7.0 hs
